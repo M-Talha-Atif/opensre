@@ -1,7 +1,5 @@
 # Environment variables 
 *.env
-.env
-.env.local
 .env.*.local
 .env.backup*
 .env.bak
@@ -111,7 +109,6 @@ Temporary Items
 .apdisk
 
 # IDE / Editors
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -190,3 +187,4 @@ crash.log
 
 # Local-only Cursor agent rules — never commit/push these
 .cursor/rules/local-rules.mdc
+config.bat
